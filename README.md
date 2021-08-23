@@ -8,6 +8,8 @@ I'm a senior software engineer / architect currently working for [Yourkeys](http
 
 I enjoy coding in my spare time, check out some of my projects and feel free to contribute 🙂
 
+![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=trossr32&show_icons=true&theme=dark)
+
 <!--
 ### [ps-transmission](https://github.com/trossr32/ps-transmission)
 
