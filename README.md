@@ -8,6 +8,8 @@ I'm a senior software engineer / architect currently working for [Yourkeys](http
 
 I enjoy coding in my spare time, check out some of my projects and feel free to contribute 🙂
 
+![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trossr32&repo=sonarr-radarr-lidarr-autosearch-browser-extension&theme=dark)](https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension)
 
