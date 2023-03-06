@@ -8,17 +8,26 @@ I enjoy coding in my spare time, check out some of my projects and feel free to 
 
 ##### Web browser extensions / add-ons
 
-[sonarr-radarr-lidarr-autosearch-browser-extension](https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension) <br />
-[magnet-linker-browser-extension](https://github.com/trossr32/magnet-linker-browser-extension) <br />
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension?color=2fac46&label=sonarr-radarr-lidarr-autosearch-browser-extension&logo=github) <br />
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/trossr32/magnet-linker-browser-extension?color=2fac46&label=magnet-linker-browser-extension&logo=github)
 
 ##### Powershell modules
 
-[ps-transmission](https://github.com/trossr32/ps-transmission) <br />
-[ps-json-to-powershell-class](https://github.com/trossr32/ps-json-to-powershell-class) <br />
-[ps-image-data-uri-converter](https://github.com/trossr32/ps-image-data-uri-converter) <br />
-[ps-github-repo-snapshot](https://github.com/trossr32/ps-github-repo-snapshot) <br />
-[ps-flatten-folders](https://github.com/trossr32/ps-flatten-folders) <br />
-[ps-video-resolution](https://github.com/trossr32/ps-video-resolution) <br />
+[![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/Transmission?label=Transmission&logo=powershell&style=plastic)](https://www.powershellgallery.com/packages/Transmission)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/Transmission?style=plastic)](https://www.powershellgallery.com/packages/Transmission) <br />
+[![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/JsonToPowershellClass?label=JsonToPowershellClass&logo=powershell&style=plastic)](https://www.powershellgallery.com/packages/JsonToPowershellClass)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/JsonToPowershellClass?style=plastic)](https://www.powershellgallery.com/packages/JsonToPowershellClass) <br />
+[![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/ImageDataUriConverter?label=ImageDataUriConverter&logo=powershell&style=plastic)](https://www.powershellgallery.com/packages/ImageDataUriConverter)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/ImageDataUriConverter?style=plastic)](https://www.powershellgallery.com/packages/ImageDataUriConverter) <br />
+[![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/GithubRepoSnapshot?label=GithubRepoSnapshot&logo=powershell&style=plastic)](https://www.powershellgallery.com/packages/GithubRepoSnapshot)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/GithubRepoSnapshot?style=plastic)](https://www.powershellgallery.com/packages/GithubRepoSnapshot) <br />
+[![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/FlattenFolders?label=FlattenFolders&logo=powershell&style=plastic)](https://www.powershellgallery.com/packages/FlattenFolders)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/FlattenFolders?style=plastic)](https://www.powershellgallery.com/packages/FlattenFolders) <br />
+[![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/VideoResolution?label=VideoResolution&logo=powershell&style=plastic)](https://www.powershellgallery.com/packages/VideoResolution)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/VideoResolution?style=plastic)](https://www.powershellgallery.com/packages/VideoResolution) <br />
+
+##### Powershell scripts
+
 [Windows-Sandbox](https://github.com/BanterBoy/Windows-Sandbox) <br />
  
 <br />
