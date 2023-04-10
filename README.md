@@ -1,6 +1,6 @@
 I'm a senior software engineer / architect and the owner of [Rob Green Engineering Ltd](https://robgreen.me). 
 
-<a href="https://robgreen.me" target="_blank"><img src="https://robgreen.me/img/rounded button_580x200" height="80px" /></a>
+<a href="https://robgreen.me" target="_blank"><img src="https://robgreen.me/img/rounded button_580x200.png" height="80px" /></a>
 
 I enjoy coding in my spare time, check out some of my projects and feel free to contribute 🙂
 <br /><br />
