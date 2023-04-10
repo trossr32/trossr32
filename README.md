@@ -1,6 +1,6 @@
-I'm a senior software engineer / architect currently working for [Yourkeys](https://www.yourkeys.com) ([Zoopla](https://www.zoopla.co.uk)) and we're disrupting the property buying process.
+I'm a senior software engineer / architect and the owner of [Rob Green Engineering Ltd](https://robgreen.me). 
 
-[Yourkeys](https://www.yourkeys.com) is now proudly the New Homes division of [Zoopla](https://www.zoopla.co.uk) following their acquisition in April 2021. [Yourkeys](https://www.yourkeys.com) is the first platform to offer a completely integrated solution to accelerate the time to exchange whilst giving every stakeholder the ability to track the purchase process in real-time. We create greater transparency, consistency and cost savings throughout the entire purchase and conveyancing process.
+<a href="https://robgreen.me" target="_blank"><img src="https://robgreen.me/img/rounded button_580x200" height="80px" /></a>
 
 I enjoy coding in my spare time, check out some of my projects and feel free to contribute 🙂
 <br /><br />
