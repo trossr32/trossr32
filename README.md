@@ -12,6 +12,10 @@ I enjoy coding in my spare time, check out some of my projects and feel free to 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension?color=2fac46&label=sonarr-radarr-lidarr-autosearch-browser-extension&logo=github) <br />
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/trossr32/magnet-linker-browser-extension?color=2fac46&label=magnet-linker-browser-extension&logo=github)
 
+##### Online tools
+
+[json2ps.app](https://json2ps.app)
+
 ##### Powershell modules
 
 [![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/Transmission?label=Transmission&logo=powershell&style=plastic)](https://www.powershellgallery.com/packages/Transmission)
