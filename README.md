@@ -34,6 +34,10 @@ I enjoy coding in my spare time, check out some of my projects and feel free to 
 ##### Powershell scripts
 
 [Windows-Sandbox](https://github.com/BanterBoy/Windows-Sandbox) <br />
+
+##### Github actions
+
+[outdated-packages-action](https://github.com/trossr32/outdated-packages-action) <br />
  
 <br />
 
