@@ -55,6 +55,8 @@ I enjoy coding in my spare time, check out some of my projects and feel free to 
 
 ![https://github.com/trossr32](https://github.com/trossr32/github-stats/blob/master/generated/overview.svg) ![https://github.com/trossr32](https://github.com/trossr32/github-stats/blob/master/generated/languages.svg) 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=trossr32&theme=onedark&margin-h=10&margin-w=10&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trossr32&repo=sonarr-radarr-lidarr-autosearch-browser-extension&theme=dark)](https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension)
 
