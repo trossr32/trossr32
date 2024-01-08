@@ -53,9 +53,24 @@ I enjoy coding in my spare time, check out some of my projects and feel free to 
  
 <br />
 
-![https://github.com/trossr32](https://github.com/trossr32/github-stats/blob/master/generated/overview.svg) ![https://github.com/trossr32](https://github.com/trossr32/github-stats/blob/master/generated/languages.svg) 
+<p align="center">
+ <a href="https://github.com/trossr32">
+  <img src="https://github.com/trossr32/github-stats/blob/master/generated/overview.svg"/>
+  <img src="https://github.com/trossr32/github-stats/blob/master/generated/languages.svg"/>
+  <!--![https://github.com/trossr32](https://github.com/trossr32/github-stats/blob/master/generated/overview.svg) ![https://github.com/trossr32](https://github.com/trossr32/github-stats/blob/master/generated/languages.svg)  -->
+  <!--<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=trossr32&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trossr32&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/>-->
+  <!--<br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trossr32&theme=buefy-dark&hide_border=true&background=1a1b27"/>-->
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=trossr32&theme=onedark&margin-h=10&margin-w=10&no-frame=true&column=6"/>
+  <!--[![trophy](https://github-profile-trophy.vercel.app/?username=trossr32&theme=onedark&margin-h=10&margin-w=10&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)-->
+ </a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=trossr32&theme=onedark&margin-h=10&margin-w=10&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trossr32&repo=sonarr-radarr-lidarr-autosearch-browser-extension&theme=dark)](https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension)
