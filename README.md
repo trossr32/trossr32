@@ -50,6 +50,7 @@ I enjoy coding in my spare time, check out some of my projects and feel free to 
 ##### Github actions
 
 <a href="https://github.com/trossr32/outdated-packages-action">![GitHub release (latest by date)](https://img.shields.io/github/v/release/trossr32/outdated-packages-action?color=2fac46&label=outdated-packages-action&logo=github)</a>
+<a href="https://github.com/marketplace/actions/outdated-nuget-npm-package-checker">![Static Badge](https://img.shields.io/badge/github%20marketplace-8A2BE2?style=flat&logo=microsoftedge)</a>
  
 <br />
 
