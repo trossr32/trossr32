@@ -21,7 +21,7 @@ I enjoy coding in my spare time, check out some of my projects and feel free to 
 
 ##### Online tools
 
-<a target="_blank" href="https://json2ps.app">![Static Badge](https://img.shields.io/badge/json2ps.app-8A2BE2?style=flat&logo=microsoftedge&link=https%3A%2F%2Fjson2ps.app)</a>
+<a target="_blank" href="https://json2ps.app">![Static Badge](https://img.shields.io/badge/json2ps.app-8A2BE2?style=flat&logo=microsoftedge)</a>
 <a href="https://github.com/trossr32/ps-json-to-powershell-class">![GitHub release (latest by date)](https://img.shields.io/github/v/release/trossr32/ps-json-to-powershell-class?color=2fac46&label=ps-json-to-powershell-class&logo=github)</a>
 
 ##### Powershell modules
