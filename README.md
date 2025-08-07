@@ -73,8 +73,8 @@ I enjoy coding in my spare time, check out some of my projects and feel free to 
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=trossr32&theme=onedark&margin-h=10&margin-w=10&no-frame=true&column=6"/>
   <!--[![trophy](https://github-profile-trophy.vercel.app/?username=trossr32&theme=onedark&margin-h=10&margin-w=10&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)-->
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=trossr32&theme=soft-green&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <!--<br/>
+  <img src="https://streak-stats.demolab.com?user=trossr32&theme=soft-green&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />-->
  </a>
 </p>
 
