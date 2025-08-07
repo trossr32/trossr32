@@ -18,3 +18,21 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/London
+          
+      - uses: lowlighter/metrics@latest
+        with:
+          config_timezone: Europe/London
+          filename: metrics.plugin.lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories        
+          plugin_lines: yes
+          plugin_lines_delay: 30
+          
+      - uses: lowlighter/metrics@latest
+        with:
+          config_timezone: Europe/London
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
