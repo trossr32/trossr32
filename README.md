@@ -63,9 +63,9 @@ I enjoy coding in my spare time, check out some of my projects and feel free to 
 
   <img src="https://github.com/trossr32/trossr32/blob/master/github-metrics.svg" style="width:100%"/>
 
-<p align="center">
+<!--<p align="center">
  <a href="https://github.com/trossr32">
   <!--<img src="https://github-profile-trophy.vercel.app/?username=trossr32&theme=onedark&margin-h=10&margin-w=10&no-frame=true&column=6"/>-->
-  <img src="https://github.com/trossr32/trossr32/blob/master/github-metrics.svg"/>
+  <!--<img src="https://github.com/trossr32/trossr32/blob/master/github-metrics.svg"/>
  </a>
-</p>
+</p>-->
