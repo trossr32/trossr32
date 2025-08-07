@@ -30,7 +30,7 @@ jobs:
       #    plugin_achievements: yes
       #    plugin_achievements_display: compact
 
-      - uses: stalomeow/metrics@projects-v2 #lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest #stalomeow/metrics@projects-v2 #lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
