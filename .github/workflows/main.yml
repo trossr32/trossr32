@@ -21,7 +21,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
-          config_display: columns
+          config_display: regular
           config_timezone: Europe/London
           plugin_achievements: yes
           plugin_achievements_display: compact
