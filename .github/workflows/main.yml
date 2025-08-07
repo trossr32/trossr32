@@ -14,27 +14,47 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: stalomeow/metrics@projects-v2 #lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Europe/London
-          base_hireable: yes
-          base_indepth: yes
+      #- uses: stalomeow/metrics@projects-v2 #lowlighter/metrics@latest
+      #  with:
+      #    token: ${{ secrets.METRICS_TOKEN }}
+      #    config_timezone: Europe/London
+      #    base_hireable: yes
+      #    base_indepth: yes
           
-      #- uses: lowlighter/metrics@latest
+      #- uses: stalomeow/metrics@projects-v2 #lowlighter/metrics@latest
       #  with:
       #    config_timezone: Europe/London
-      #    filename: metrics.plugin.lines.svg
+      #    filename: metrics.plugin.achievements.svg
       #    token: ${{ secrets.METRICS_TOKEN }}
-      #    base: repositories        
-      #    plugin_lines: yes
-      #    plugin_lines_delay: 30
-          
-      - uses: stalomeow/metrics@projects-v2 #lowlighter/metrics@latest
+      #    base: ""
+      #    plugin_achievements: yes
+      #    plugin_achievements_display: compact
+
+      - uses: lowlighter/metrics@latest
         with:
-          config_timezone: Europe/London
-          filename: metrics.plugin.achievements.svg
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+
+          # Options
+          user: trossr32
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_hireable: yes
+          config_display: columns
+          config_timezone: Europe/London
           plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: X
+          #plugin_achievements_ignored: chatter
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
