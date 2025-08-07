@@ -61,7 +61,7 @@ I enjoy coding in my spare time, check out some of my projects and feel free to 
  
 <br />
 
-<img src="https://github.com/trossr32/trossr32/blob/master/github-metrics.svg" style="width:100%"/>
+<img src="https://github.com/trossr32/trossr32/blob/master/github-metrics.svg"/>
  
 <!--<br />
 
