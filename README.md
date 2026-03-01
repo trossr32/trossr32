@@ -22,7 +22,9 @@ I enjoy coding in my spare time, check out some of my projects and feel free to 
 ##### Online tools
 
 <a target="_blank" href="https://json2ps.app">![Static Badge](https://img.shields.io/badge/json2ps.app-8A2BE2?style=flat&logo=microsoftedge)</a>
-<a href="https://github.com/trossr32/ps-json-to-powershell-class">![GitHub release (latest by date)](https://img.shields.io/github/v/release/trossr32/ps-json-to-powershell-class?color=2fac46&label=ps-json-to-powershell-class&logo=github)</a>
+<a href="https://github.com/trossr32/ps-json-to-powershell-class">![GitHub release (latest by date)](https://img.shields.io/github/v/release/trossr32/ps-json-to-powershell-class?color=2fac46&label=ps-json-to-powershell-class&logo=github)</a> <br />
+<a target="_blank" href="https://trossr32.github.io/aws-schedule-expression-validator">![Static Badge](https://img.shields.io/badge/trossr32.github.io/aws--schedule--expression--validator-8A2BE2?style=flat&logo=microsoftedge)</a>
+<a href="https://github.com/trossr32/aws-schedule-expression-validator">![GitHub release (latest by date)](https://img.shields.io/github/v/release/trossr32/aws-schedule-expression-validator?color=2fac46&label=aws-schedule-expression-validator&logo=github)</a>
 
 ##### Powershell modules
 
@@ -43,8 +45,10 @@ I enjoy coding in my spare time, check out some of my projects and feel free to 
 <a href="https://github.com/trossr32/ps-flatten-folders">![GitHub release (latest by date)](https://img.shields.io/github/v/release/trossr32/ps-flatten-folders?color=2fac46&label=ps-flatten-folders&logo=github)</a> <br />
 [![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/VideoResolution?label=VideoResolution&logo=powershell&style=plastic)](https://www.powershellgallery.com/packages/VideoResolution)
 [![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/VideoResolution?style=plastic)](https://www.powershellgallery.com/packages/VideoResolution) 
-<a href="https://github.com/trossr32/ps-video-resolution">![Static Badge](https://img.shields.io/badge/ps--video--resolution-gray?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2FBanterBoy%2FWindows-Sandbox)
-</a><br />
+<a href="https://github.com/trossr32/ps-video-resolution">![Static Badge](https://img.shields.io/badge/ps--video--resolution-gray?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%trossr32%2Fps-video-resolution)</a><br />
+[![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/AwsScheduleExpressionValidator.PsModule?label=AwsScheduleExpressionValidator.PsModule&logo=powershell&style=plastic)](https://www.powershellgallery.com/packages/AwsScheduleExpressionValidator.PsModule)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/AwsScheduleExpressionValidator.PsModule?style=plastic)](https://www.powershellgallery.com/packages/AwsScheduleExpressionValidator.PsModule) 
+<a href="https://github.com/trossr32/aws-schedule-expression-validator">![Static Badge](https://img.shields.io/badge/aws--schedule--expression--validator-gray?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%trossr32%2Faws-schedule-expression-validator)</a><br />
 <!--
 <a href="https://github.com/trossr32/ps-video-resolution">![GitHub release (latest by date)](https://img.shields.io/github/v/release/trossr32/ps-video-resolution?color=2fac46&label=ps-video-resolution&logo=github)</a><br />
 -->
