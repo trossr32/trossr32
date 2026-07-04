@@ -9,6 +9,7 @@ I enjoy coding in my spare time, check out some of my projects and feel free to 
 
 ##### Web browser extensions / add-ons
 
+<a target="_blank" href="https://arrsearch.app">![Static Badge](https://img.shields.io/badge/arrsearch.app-8A2BE2?style=flat&logo=microsoftedge)</a>
 <a href="https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension">![GitHub release (latest by date)](https://img.shields.io/github/v/release/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension?color=2fac46&label=sonarr-radarr-lidarr-autosearch-browser-extension&logo=github)</a>
 <a target="_blank" href="https://microsoftedge.microsoft.com/addons/detail/sonarrradarrlidarr-auto/aclgfcjonnhgdkinhmmafdbkpegfcnal">![Static Badge](https://img.shields.io/badge/edge-8A2BE2?style=flat&logo=microsoftedge)</a> 
 <a target="_blank" href="https://addons.mozilla.org/en-GB/firefox/addon/sonarr-radarr-lidarr-search/">![Static Badge](https://img.shields.io/badge/firefox-8A2BE2?style=flat&logo=firefox)</a>
